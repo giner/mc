@@ -463,7 +463,7 @@ Include=editor
 [Typescript]
 Shell=.ts
 ShellIgnoreCase=true
-Type=^Java source
+Type=^(Java|JavaScript) source
 Include=editor
 
 # .so libraries
